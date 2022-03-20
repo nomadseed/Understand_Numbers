@@ -26,6 +26,14 @@ Design #1:
     retry to get an accuracy >= 0.85
 
 
-@author: Wen Wen
+TBD:
+    1. For Dataset: determine the category number need to be used for classification (example, apple, boat, car, people and something what?)
+        Idea:
+            1. we need multiple objects with not only simple features (e.g. apple) but also complex features(e.g. transformer LoL) in order to provide robustness
+            2. Model Comparison: model for simple feature objects V.S. model for complex feature objects
+
+    2. How to setup train-test split (need to answer TDB#1 first)
+
+@author: Wen Wen, Rui Sun
 """
 
