@@ -29,5 +29,18 @@ Design #1:
 @author: Wen Wen
 """
 
+from design_factory import DesignFactory
+
+
+
+
+
+
+def main():
+
+
+
+if __name__ == "__main__":
+    main()
 
 
